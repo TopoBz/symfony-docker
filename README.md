@@ -50,7 +50,7 @@ Just run `docker-compose -d`, then:
 * Symfony dev mode: visit [symfony.dev/app_dev.php](http://symfony.dev/app_dev.php)  
 * Logs (Kibana): [symfony.dev:81](http://symfony.dev:81)
 * Logs (files location): logs/nginx and logs/symfony
-* Phpmyadmin: [symfony.dev:8080](http://symfony.dev:8080))
+* Phpmyadmin: [symfony.dev:8000](http://symfony.dev:8080))
 
 ## Useful commands
 
